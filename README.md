@@ -29,6 +29,3 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="https://sdmntprwestus.oaiusercontent.com/files/00000000-0174-5230-a1e8-05ccbdfe585e/raw?se=2025-04-01T16%3A29%3A57Z&sp=r&sv=2024-08-04&sr=b&scid=a7c6b83b-e478-5436-835e-c632043c0e01&skoid=51916beb-8d6a-49b8-8b29-ca48ed86557e&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-01T08%3A57%3A54Z&ske=2025-04-02T08%3A57%3A54Z&sks=b&skv=2024-08-04&sig=vnxGkHnRU1WznUzOvehdu9yYsYJ6cyYC91igOI724BY%3D"  />
-
-###
